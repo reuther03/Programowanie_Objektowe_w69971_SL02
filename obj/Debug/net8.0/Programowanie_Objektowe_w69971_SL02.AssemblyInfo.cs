@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Programowanie_Objektowe_w69971_SL02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c471419adde03ce7c86b875655d5e9429d69bc98")]
 [assembly: System.Reflection.AssemblyProductAttribute("Programowanie_Objektowe_w69971_SL02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Programowanie_Objektowe_w69971_SL02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ C:\Repos\Studia\Nauka\Programowanie_Objektowe_w69971_SL02\Programowanie_Objektow
 C:\Repos\Studia\Nauka\Programowanie_Objektowe_w69971_SL02\Programowanie_Objektowe_w69971_SL02\obj\Debug\net8.0\Programowanie_Objektowe_w69971_SL02.pdb
 C:\Repos\Studia\Nauka\Programowanie_Objektowe_w69971_SL02\Programowanie_Objektowe_w69971_SL02\obj\Debug\net8.0\Programowanie_Objektowe_w69971_SL02.genruntimeconfig.cache
 C:\Repos\Studia\Nauka\Programowanie_Objektowe_w69971_SL02\Programowanie_Objektowe_w69971_SL02\obj\Debug\net8.0\ref\Programowanie_Objektowe_w69971_SL02.dll
+C:\Repos\Studia\Nauka\Programowanie_Objektowe_w69971_SL02\Programowanie_Objektowe_w69971_SL02\obj\Debug\net8.0\Programowanie_Objektowe_w69971_SL02.sourcelink.json
