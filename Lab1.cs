@@ -1,4 +1,6 @@
-﻿public static class Lab1
+﻿namespace Programowanie_Objektowe_w69971_SL02;
+
+public static class Lab1
 {
     public static void Zad1()
     {
